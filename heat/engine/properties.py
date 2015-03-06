@@ -13,7 +13,7 @@
 
 import collections
 
-from oslo_serialization import jsonutils
+from oslo.serialization import jsonutils
 import six
 
 from heat.common import exception
